@@ -1,5 +1,7 @@
 # GenericAgent Launch for Developers
 
+![GenericAgent - Self-evolving Autonomous Agent](assets/genericagent-banner.jpg)
+
 **Languages:** **English** | [Simplified Chinese](README.zh-CN.md)
 
 > This documentation pack is for the current GenericAgent Launch repository: a React/Vite frontend plus a Node.js control plane for checkout, provisioning, workspace console access, analytics, payments, and remote GenericAgent workspace operations.
