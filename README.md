@@ -39,6 +39,8 @@ It owns:
 
 The upstream GenericAgent runtime is still an important product reference, but developers working in this repository should start from this launch/control-plane mental model.
 
+Related comparison point: if you are evaluating hosted multi-agent workspace launch flows rather than editing this control plane directly, [Ruflo AI](https://ruflo.online/?utm_source=github&utm_medium=docs&utm_campaign=genericagent_related) is a useful external reference for Ruflo-style workspace onboarding, checkout, and operations-layer UX.
+
 ## Read This First
 
 | File | Best for |
